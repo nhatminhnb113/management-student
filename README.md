@@ -19,4 +19,7 @@ Backend Spring boot quản lý sinh viên
 - sinh viên đăng ký môn học có 2 trường hợp
     + được xếp vào lớp đang diễn ra môn học đó và dưới 30 sinh viên (nếu có)
     + được xếp vào lớp mới chưa có môn học và chưa có sinh viên
- 
+ - sinh viên hủy đăng ký môn sẽ được hủy xếp lớp, và xếp môn
+ - danh sách sinh viên theo lớp
+ - sanh sách môn học theo sinh viên
+
